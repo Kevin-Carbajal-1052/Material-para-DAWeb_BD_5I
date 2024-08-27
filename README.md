@@ -19,5 +19,15 @@ Tenemos link de referencia mas documentos Agosto 2024
 - Descargar Python
 - https://www.python.org/downloads/
 
+- Programacion online
+- https://coddy.tech/
+
+- 
+- ![image](https://github.com/user-attachments/assets/37319311-dab9-41d7-a570-e94226477b10)
+
+##Diseño web cpn Figma
+
+- https://www.figma.com/
+- ![image](https://github.com/user-attachments/assets/64a7826f-ef12-4a16-8111-3c1aab58b7df)
 
 
